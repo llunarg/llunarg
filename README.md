@@ -18,7 +18,7 @@
 
 <h3 align="left">Certifications:</h3>
 
-<a href="https://www.credly.com/badges/4254e69f-b160-471c-8fe9-30ad1a2987eb/public_url=">/a>
+<a href="https://www.credly.com/badges/4254e69f-b160-471c-8fe9-30ad1a2987eb/public_url="/a>
    
 
 <h3 align="left">Languages and Tools:</h3>
