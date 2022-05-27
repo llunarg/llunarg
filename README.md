@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/llunarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="llunarg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">Certifications and Creditations:</h3>
 
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate
