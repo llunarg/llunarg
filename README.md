@@ -1,29 +1,91 @@
-<h1 align="center">Hola 👋, me llamo Luis Lunar (Luis)</h1>
-<h3 align="center">Soy ingeniero de sistemas en formación como Cloud SRE Engineer AWS</h3>
+# Hi, I'm Luis Eduardo Lunar 👋
 
-- Actualmente estoy aprendiendo y profundizando en diferentes tecnologías y servicios **HTML, CSS, Javascript, Git/GitHub, Linux, Bash Shell, Docker, K8, Terraform, CI/CD**
+**Senior Manager (Player-Coach) | Cloud Architecture & CloudOps | AWS | Security | Governance | FinOps | Instructor**
 
-- 📝 Regularmente escribo artículos sobre AWS y arquitectura
+I connect cloud architecture with real execution, operating models, governance, security guardrails, FinOps, automation, and hands-on learning.
 
-- 📫 Cómo contactar **llunarg@gmail.com**
+My work sits at the intersection of cloud strategy and delivery. I enjoy designing practical cloud solutions, helping teams operate with more clarity, and turning complex technical topics into learning experiences that people can actually use.
 
-- 📄 Conoce acerca de mi experiencia profesional y recomendaciones [https://www.linkedin.com/in/llunarg/](https://www.linkedin.com/in/llunarg/)
+---
 
-- ⚡ Algo que me apasiona **El estudio constante y el alcanzar nuevas habilidades**
+## What I do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/llunarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="llunarg" height="30" width="40" /></a>
-</p>
+- Design and support cloud architecture and CloudOps initiatives.
+- Build operating models with roles, RACI, KPIs, governance, and execution cadence.
+- Strengthen cloud security through guardrails, controls, and operational practices.
+- Improve FinOps visibility through cost allocation, reporting, and consumption awareness.
+- Work hands-on with AWS, Linux, Docker, Bash, Terraform, Jenkins, and automation workflows.
+- Teach AWS, cloud architecture, and technical concepts with a practical approach.
 
-<h3 align="left">Certifications and Creditations:</h3>
+---
 
+## What I’m building here
+
+This GitHub profile is where I organize and share practical material around cloud, operations, security, automation, and technical learning.
+
+You will find:
+
+- AWS labs based on real operational scenarios.
+- CloudOps and security practice guides.
+- Terraform and automation examples.
+- Linux, DevOps, and infrastructure notes.
+- Learning resources for cloud professionals.
+- Experiments, references, and personal technical notebooks.
+
+---
+
+## Current focus
+
+- AWS Security and cloud security operations.
+- CloudOps operating models and operational readiness.
+- Terraform, automation, and infrastructure as code.
+- FinOps practices for visibility, allocation, and reporting.
+- Technical writing, teaching, and hands-on cloud labs.
+
+---
+
+## Teaching & community
+
+I teach what I apply.
+
+I work as an AWS instructor, university lecturer, and LinkedIn Learning instructor, creating practical learning experiences for people building real cloud skills.
+
+My teaching style is focused on clarity, execution, and real-world context: not just what a service does, but when to use it, why it matters, and what trade-offs it brings.
+
+---
+
+## Certifications
+
+- AWS Certified Security - Specialty
+- AWS Certified CloudOps Engineer - Associate
+- AWS Certified Solutions Architect - Associate
 - AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect – Associate
-- AWS Partner: Cloud Economics Accreditation
-- AWS Partner: Accreditation (Technical)
-- CompTIA Network+ Certification
-- CompTIA Security+ Certification
+- FinOps Certified Engineer
+- Linux Essentials
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
+
+## Topics I care about
+
+`AWS` · `CloudOps` · `Cloud Architecture` · `Security` · `Governance` · `FinOps` · `Terraform` · `Linux` · `DevOps` · `Automation` · `Technical Teaching`
+
+---
+
+## Books and ideas that influence my work
+
+Some ideas that shape how I think about cloud, operations, teams, and architecture:
+
+- **AWS Well-Architected Framework** — for structured cloud decision-making.
+- **The DevOps Handbook** — for flow, feedback, and continuous improvement.
+- **Team Topologies** — for platform thinking and team interaction models.
+- **Site Reliability Engineering** — for reliability, operations, and engineering discipline.
+- **Designing Data-Intensive Applications** — for system design and distributed systems thinking.
+
+---
+
+## Connect with me
+
+- LinkedIn: [linkedin.com/in/llunarg](https://www.linkedin.com/in/llunarg/)
+- Dev.to: [dev.to/llunarg](https://dev.to/llunarg)
+- Credly: `llunarg`
+- Email: `llunarg@gmail.com`
