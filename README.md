@@ -34,6 +34,21 @@ You will find:
 
 ---
 
+## Curated repositories and learning resources
+
+Some public repositories in this profile are hands-on notes, study references, course material, and curated learning resources. I keep them visible when they can help others learn or understand how I organize technical practice.
+
+- [`linux-basics-course`](https://github.com/llunarg/linux-basics-course) — Linux fundamentals notes and labs for building operational foundations.
+- [`devops-exercises`](https://github.com/llunarg/devops-exercises) — DevOps, SRE, cloud, Linux, automation, and infrastructure practice references.
+- [`DEVOPS-WORLD`](https://github.com/llunarg/DEVOPS-WORLD) — Curated DevOps learning resources for prerequisites, networking, Linux, shell scripting, and related topics.
+- [`cursojenkins`](https://github.com/llunarg/cursojenkins) — Jenkins and CI/CD learning material.
+- [`ddc-material`](https://github.com/llunarg/ddc-material) — Course material and technical learning references.
+- [`linux-installation-scripts`](https://github.com/llunarg/linux-installation-scripts) — Linux setup scripts and operational notes.
+
+> Some repositories are study references, forks, or course-based material. I keep that distinction clear because professional credibility matters: not every repo is intended to be a personal product, but each one supports learning, practice, or technical exploration.
+
+---
+
 ## Current focus
 
 - AWS Security and cloud security operations.
