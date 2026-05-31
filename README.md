@@ -46,7 +46,7 @@ The project connects technical articles, guided labs, architecture decisions, an
 
 - Articles and project updates: [dev.to/llunarg](https://dev.to/llunarg)
 - Introduction article: [Certificarse en AWS no debería quedarse solo en responder preguntas: nace Digital Café Luna](https://dev.to/llunarg/certificarse-en-aws-no-deberia-quedarse-solo-en-responder-preguntas-nace-digital-cafe-luna-4pfo)
-- Project repository: `digital-cafe-luna-labs` — coming soon
+- Project repository: [`digital-cafe-luna-labs`](https://github.com/llunarg/digital-cafe-luna-labs)
 
 ---
 
