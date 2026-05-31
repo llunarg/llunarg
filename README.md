@@ -2,7 +2,7 @@
 
 **Senior Manager (Player-Coach) | Cloud Architecture & CloudOps | AWS | Security | Governance | FinOps | Instructor**
 
-I connect cloud architecture with real execution, operating models, governance, security guardrails, FinOps, automation, and hands-on learning.
+I connect cloud architecture with real execution: operating models, governance, security guardrails, FinOps, automation, and hands-on learning.
 
 My work sits at the intersection of cloud strategy and delivery. I enjoy designing practical cloud solutions, helping teams operate with more clarity, and turning complex technical topics into learning experiences that people can actually use.
 
@@ -31,6 +31,22 @@ You will find:
 - Linux, DevOps, and infrastructure notes.
 - Learning resources for cloud professionals.
 - Experiments, references, and personal technical notebooks.
+
+---
+
+## Featured project: Digital Café Luna
+
+**Digital Café Luna** is my main hands-on AWS learning project.
+
+It was born from a simple idea: getting certified in AWS should not stop at answering practice questions. Real cloud learning happens when you design, build, operate, troubleshoot, secure, validate, and clean up real cloud environments.
+
+Through a fictional business case, Digital Café Luna turns AWS certification topics into practical labs focused on cloud architecture, CloudOps, security, automation, FinOps, and operational readiness.
+
+The project connects technical articles, guided labs, architecture decisions, and hands-on practice into one learning path.
+
+- Articles and project updates: [dev.to/llunarg](https://dev.to/llunarg)
+- Introduction article: [Certificarse en AWS no debería quedarse solo en responder preguntas: nace Digital Café Luna](https://dev.to/llunarg/certificarse-en-aws-no-deberia-quedarse-solo-en-responder-preguntas-nace-digital-cafe-luna-4pfo)
+- Project repository: `digital-cafe-luna-labs` — coming soon
 
 ---
 
